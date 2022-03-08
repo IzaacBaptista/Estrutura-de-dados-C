@@ -1,39 +1,45 @@
-# Curso-de-Programação-C
 
-## estruturas de dados
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![Go Language](https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo=&logoColor=white)
 
-## Pilhas
+## Esse repositório é de estudos e experimento de algoritimos e estrutura de dados em C
 
-## Algoritmos
+## 💻 Material que você vai encontrar
 
-## Alocação de memória
+### Estruturas de dados
 
-## Variáveis
+### Pilhas
 
-## Tipos de dados
+### Algoritmos
 
-## Operadores relacionais e lógicos
+### Alocação de memória
 
-## Estruturas de decisão
+### Variáveis
 
-## Estruturas de repetição
+### Tipos de dados
 
-## Vetor e matriz
+### Operadores relacionais e lógicos
 
-## Strings
+### Estruturas de decisão
 
-## Funções e procedimentos
+### Estruturas de repetição
 
-## Struct
+### Vetor e matriz
 
-## Ponteiros
+### Strings
 
-## Listas encadeadas
+### Funções e procedimentos
 
-## Pilhas
+### Struct
 
-## Filas
+### Ponteiros
 
-## Árvores
+### Listas encadeadas
 
-## Tabela hash
+### Pilhas
+
+### Filas
+
+### Árvores
+
+### Tabela hash
