@@ -2,44 +2,44 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Go Language](https://img.shields.io/badge/C-00ADD8?style=for-the-badge&logo=&logoColor=white)
 
-## Esse repositório é de estudos e experimento de algoritimos e estrutura de dados em C
+### Esse repositório é de estudos e experimento de algoritimos e estrutura de dados em C
 
-## 💻 Material que você vai encontrar
+### 💻 Material que você vai encontrar
 
-### Estruturas de dados
+#### Estruturas de dados
 
-### Pilhas
+#### Pilhas
 
-### Algoritmos
+#### Algoritmos
 
-### Alocação de memória
+#### Alocação de memória
 
-### Variáveis
+#### Variáveis
 
-### Tipos de dados
+#### Tipos de dados
 
-### Operadores relacionais e lógicos
+#### Operadores relacionais e lógicos
 
-### Estruturas de decisão
+#### Estruturas de decisão
 
-### Estruturas de repetição
+#### Estruturas de repetição
 
-### Vetor e matriz
+#### Vetor e matriz
 
-### Strings
+#### Strings
 
-### Funções e procedimentos
+#### Funções e procedimentos
 
-### Struct
+#### Struct
 
-### Ponteiros
+#### Ponteiros
 
-### Listas encadeadas
+#### Listas encadeadas
 
-### Pilhas
+#### Pilhas
 
-### Filas
+#### Filas
 
-### Árvores
+#### Árvores
 
-### Tabela hash
+#### Tabela hash
