@@ -12,6 +12,8 @@ int main(void)
     
     printf("Digite duas letras: ");
     scanf("%c %c", &a, &b);
+
+    //expaço entre os %c -> comando para o computador desconsiderar o ENTER, o TAB e o ESPAÇO
     
     printf("Primeira letra: %c\nSegunda letra: %c\n", a, b);
 
