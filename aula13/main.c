@@ -12,9 +12,12 @@ int main(void)
     
     printf("Digite a primeira letra: ");
     scanf("%c", &a);
+    
+    //buffer =>
+    scanf("%c");
 
     printf("Digite a segunda letra: ");
-    scanf(" %c", &b);
+    scanf("%c", &b);
 
     // expaço entre os %c -> comando para o computador desconsiderar o ENTER, o TAB e o ESPAÇO
     // buffer =>
