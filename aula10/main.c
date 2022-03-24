@@ -13,7 +13,7 @@ int main(void)
     float peso, altura;
 
     printf("Digite sexo (f, F, m ou M), idade, peso e altura:\n");
-    scan("%c%d%f%f", &sexo, &idade, &peso, &altura);
+    scanf("%c%d%f%f", &sexo, &idade, &peso, &altura);
 
     printf("Sexo: %c\nIdade: %d\nPeso: %.1f\nAltura: %.2f\n", sexo, idade, peso, altura);
 
