@@ -8,8 +8,11 @@ int main(void)
 {
     setlocale(LC_ALL, "Portuguese");
 
+    short int a = 0;
+    //short short int a = 0;
+
     long int x = 2147483647;
-    long long int x = 2147483647;
+    //long long int x = 2147483647;
 
     printf("Tamanho de x em bytes: %d\n", sizeof x);
 
