@@ -13,9 +13,9 @@ int main(void)
 
     printf("Tamanho de x em bytes: %d\n", sizeof x);
 
-    printf("Valor de x: %ld\n", x);
+    printf("Valor de x: %lld\n", x);
     x++;
-    printf("Valor de x: %lh\n", x);
+    printf("Valor de x: %lli\n", x);
     
     return 0;
 }
