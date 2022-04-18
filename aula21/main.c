@@ -2,7 +2,19 @@
 #include <stdlib.h>
 #include <locale.h>
 
-//Como usar o operador long para o tipo primitivo double?
+/*
+
+    O que são caracteres de escape \n, \t, \", \' e \\
+
+    Quebra de linha     -> \n
+    Tabulação           -> \t
+    Aspas dupla         -> \"
+    Aspas simples       -> \'
+    Contrabarra         -> \\
+
+*/
+
+
 
 int main(void)
 {
