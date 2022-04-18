@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-//Qual o tamanho em memória de um float?
+//O tipo primitivo double para números reais com precisão dupla
 
 int main(void)
 {
