@@ -10,8 +10,10 @@ int main(void)
 
     float x = 3.1415;
 
-    printf("Um float precisa de %d bytes de memória.\n", sizeof x);
-    printf("Um float precisa de %d bytes de memória.\n", sizeof(float));
-    
+    double y = 3.14154847989789654654321;
+
+    printf("um double precisa de %d bytes de memória. \n", sizeof y);
+    printf("um double precisa de %d bytes de memória. \n", sizeof(double));
+
     return 0;
 }
