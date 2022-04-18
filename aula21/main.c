@@ -20,7 +20,11 @@ int main(void)
 {
     setlocale(LC_ALL, "Portuguese");
 
-    
+    printf("\n\nIsto é uma mensagem.\n\n");
+    printf("\n\n\tIsto é uma mensagem.\n\n");
+    printf("\n\n\tIsto é uma \"mensagem\".\n\n");
+    printf("\n\n\tIsto é uma \'mensagem\'.\n\n");
+    printf("\n\n\tIsto é uma \\mensagem.\n\n");
 
     return 0;
 }
