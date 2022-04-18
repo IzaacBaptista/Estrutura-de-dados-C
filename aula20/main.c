@@ -19,6 +19,7 @@ int main(void)
     printf("Um float precisa de %d bytes de memoria.\n", sizeof x);
     printf("Um float precisa de %d bytes de memoria.\n", sizeof(float));
     printf("----------------------------------------------------------------------\n");
+
     printf("Valor de Y é: %lf\n", y);
     printf("Valor de Y é: %.10lf\n", y);
     printf("Um double precisa de %d bytes de memoria.\n", sizeof y);
@@ -26,7 +27,9 @@ int main(void)
     printf("-----------------------------------------------------------------------\n");
 
     printf("Valor de Z é: %lf\n", z);
+    __mingw_printf("Valor de Z é: %lf\n", z);
     printf("Valor de Z é: %.10lf\n", z);
+    __mingw_printf("Valor de Z é: %.10lf\n", z);
     printf("Um long double precisa de %d bytes de memoria.\n", sizeof z);
     printf("Um long double precisa de %d bytes de memoria.\n", sizeof(long double));
 
