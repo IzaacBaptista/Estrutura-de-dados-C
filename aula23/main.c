@@ -16,9 +16,9 @@ int main(void)
     printf("\nSubtração: %d\n", a - b);
     printf("\nMultiplicação: %d\n", a * b);
     printf("\nDivisão: %d\n", a / b);
-    printf("\nDivisão: %d\n", (float)a / b); //numeros inteiros
+    printf("\nDivisão: %d\n", (float)a / b); //numeros reais
     printf("\nDivisão: %f\n", a / b);
-    printf("\nDivisão: %f\n", (float)a / b); //numeros inteiros
+    printf("\nDivisão: %f\n", (float)a / b); //numeros reais
 
     return 0;
 }
