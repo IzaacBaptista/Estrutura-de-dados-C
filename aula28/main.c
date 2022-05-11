@@ -22,14 +22,13 @@
 int main(void)
 {
     setlocale(LC_ALL, "Portuguese");
-
-    unsigned int x = 2147483647;
-
-    unsigned short int y = 55000;
-
-    printf("\n\t %d \n\n", y);
-    printf("\n\t %hi \n\n", y);
-    printf("\n\t %hu \n\n", y);
+    
+    //printf("Coração\n");
+    char letra = 'f';
+    printf("%d", 102);
+    printf("%c", 102);
+    printf("%c", 103);
+    
 
     return 0;
 }
