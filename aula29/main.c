@@ -14,16 +14,18 @@ int main(void)
 {
     setlocale(LC_ALL, "Portuguese");
     
-    int a, b;
+    int a, b, c;
 
     printf("Digite dois valores: ");
     scanf("%d%d", &a, &b);
 
     printf("Valores lidos: a: %d\tb: %d\n", a, b);
-
-    printf("Valores lidos: a: %d\tb: %d\n", a, b);
-
     
+    c = a; 
+    a = b;
+    b = c;
+
+    printf("Depois da troca: a: %d\tb: %d\n", a, b);
 
     return 0;
 }
