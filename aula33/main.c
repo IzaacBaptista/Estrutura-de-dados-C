@@ -19,4 +19,4 @@ int main(void)
         printf("Valor em dolar $%.2f\n", valorDolar);
 
     return 0;
-}a
+}
