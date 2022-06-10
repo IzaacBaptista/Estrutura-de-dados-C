@@ -15,7 +15,7 @@ int main() {
 
     printf("\nResultado logico: %d\n", a < 0);
 
-    if(0)
+    if(1)
         printf("\n\tValor negativo!\n");
     else {
         printf("\n\tValor positivo ou igual a zero!\n");
