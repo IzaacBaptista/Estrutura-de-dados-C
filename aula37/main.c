@@ -15,10 +15,10 @@ int main() {
 
     printf("\nResultado logico: %d\n", a < 0);
 
-    if( a < 0 )
+    if(0)
         printf("\n\tValor negativo!\n");
     else {
-        printf("\n\tValor positivo!\n");
+        printf("\n\tValor positivo ou igual a zero!\n");
     }
 
     printf("Continuação do programa!\n");
