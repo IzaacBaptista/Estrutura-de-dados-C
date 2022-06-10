@@ -15,6 +15,9 @@ int main() {
 
     if( a < 0 )
         printf("\n\tValor negativo!\n");
+    else {
+        printf("\n\tValor positivo!\n");
+    }
 
     printf("Continuação do programa!\n");
 
