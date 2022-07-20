@@ -9,6 +9,8 @@
 
 int main() {
 
+    setlocale(LC_ALL, "Portuguese");
+
     int a = 10;
 
     printf("Digite um valor qualquer: ");
