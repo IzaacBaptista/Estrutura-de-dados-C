@@ -18,7 +18,7 @@ int main() {
 
     printf("Operador ternário");
     a < 0 ? printf("\n\tValor negativo!\n") : printf("\n\tValor positivo ou igual a zero!\n");
-    
+
     printf("Continuação do programa!\n");
 
     return 0;
