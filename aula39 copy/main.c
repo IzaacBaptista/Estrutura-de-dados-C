@@ -24,10 +24,10 @@ int main() {
     else {
         if(a > 0)
             printf("\n\tValor positivo!\n");
-        else 
+        else
             printf("\n\tValor igual a zero!\n");
     }
-    
+
     printf("Continuação do programa!\n");
 
     return 0;
