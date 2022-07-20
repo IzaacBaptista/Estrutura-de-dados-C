@@ -14,6 +14,7 @@ int main() {
     printf("Digite um valor qualquer: ");
     scanf("%d", &a);
 
+    printf("Operador ternário");
     a < 0 ? printf("\n\tValor negativo!\n") : printf("\n\tValor positivo ou igual a zero!\n");
     
     printf("Continuação do programa!\n");
