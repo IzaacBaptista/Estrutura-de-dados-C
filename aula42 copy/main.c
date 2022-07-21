@@ -15,7 +15,7 @@ int main() {
 
     printf("Digite seu sexo f ou m e sua idade: ");
     scanf("%c%d", &idade, &sexo);
-    
+/*    
     if(sexo == 'm'){
         if(idade == 18)
             printf("Alistamento obrigatório!\n");
@@ -25,7 +25,12 @@ int main() {
     else {
         printf("Dispensada!\n");
     }
-
+*/
+    if(sexo == 'm' && idade == 18)
+        printf("Alistamento obrigatório!\n");
+    else 
+        printf("Dispensado!\n");
+    
     printf("Continuação do programa!\n");
 
     return 0;
