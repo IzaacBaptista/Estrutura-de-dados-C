@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    O operador lógico e (&&) na linguagem C (Conjunção) 
+    O operador lógico e (&&) na linguagem C (Conjunção)
 */
 
 int main() {
@@ -15,22 +15,22 @@ int main() {
 
     printf("Digite seu sexo f ou m e sua idade: ");
     scanf("%c%d", &idade, &sexo);
-/*    
-    if(sexo == 'm'){
-        if(idade == 18)
-            printf("Alistamento obrigatório!\n");
-        else 
-            printf("Dispensado!\n");
-    }
-    else {
-        printf("Dispensada!\n");
-    }
-*/
+    /*
+        if(sexo == 'm'){
+            if(idade == 18)
+                printf("Alistamento obrigatório!\n");
+            else
+                printf("Dispensado!\n");
+        }
+        else {
+            printf("Dispensada!\n");
+        }
+    */
     if(sexo == 'm' && idade == 18)
         printf("Alistamento obrigatório!\n");
-    else 
+    else
         printf("Dispensado!\n");
-    
+
     printf("Continuação do programa!\n");
 
     return 0;
