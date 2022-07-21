@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Estrutura de decisão else if encadeados na linguagem C 
+    Estrutura de decisão else if encadeados na linguagem C
 */
 
 int main() {
