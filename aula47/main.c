@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Estrutura de seleção switch case com caracter na linguagem C 
+    Estrutura de seleção switch case com caracter na linguagem C
 */
 
 int main() {
@@ -15,7 +15,7 @@ int main() {
     printf("a - Cadastrar produto\nb - Vender produto\nc - Buscar produto\nd - Imprimir relatório\ne - Sair");
     scanf("%d", &opcao);
 
-    switch(opcao){
+    switch(opcao) {
     case 'a':
         printf("a - Cadastrar produto\n");
         break;
@@ -34,7 +34,7 @@ int main() {
     default:
         printf("opção não encontrada, tente novamente!");
     }
-    
+
 
     return 0;
 }
