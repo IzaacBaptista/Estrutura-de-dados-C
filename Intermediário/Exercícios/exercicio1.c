@@ -39,8 +39,6 @@ int main() {
             printf("\n menor: %d", c);
         }
     }
-
-    //segunda solução
     
     if(a > b){
         if (a > c){
@@ -59,6 +57,25 @@ int main() {
             printf("\n maior: %d", c);
         }
     }
+
+    //outra solução
+
+    menor = a;
+    maior = a;
+
+    if(menor > b)
+        menor = b;
+        printf("\n menor: %d", b);
+    if(menor > c)
+        menor c;
+        printf("\n menor: %d", c);
+
+    if(maior > b)
+        maior = b;
+        printf("\n maior: %d", b);
+    if(maior > c)
+        maior c;
+        printf("\n maior: %d", c);
 
     return 0;
 }
