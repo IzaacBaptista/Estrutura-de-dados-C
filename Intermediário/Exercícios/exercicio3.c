@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-     Ex 3 Leia um número e diga se é divisível por 2, por 3 ou por 5 na linguagem C 
+     Ex 3 Leia um número e diga se é divisível por 2, por 3 ou por 5 na linguagem C
 */
 
 int main() {
