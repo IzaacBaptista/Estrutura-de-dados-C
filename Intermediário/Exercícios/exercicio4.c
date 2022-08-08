@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Ex 4: Conversão cambial de Real para Dólar ou de Dólar para Real na linguagem C 
+    Ex 4: Conversão cambial de Real para Dólar ou de Dólar para Real na linguagem C
 */
 
 int main() {
