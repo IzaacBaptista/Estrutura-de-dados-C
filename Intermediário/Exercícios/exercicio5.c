@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Exercício 5: Calcular o índice de massa corporal (IMC) na linguagem C 
+    Exercício 5: Calcular o índice de massa corporal (IMC) na linguagem C
 */
 
 int main() {
