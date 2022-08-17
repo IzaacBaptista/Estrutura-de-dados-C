@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Leia um caractere e diga se é vogal ou consoante na linguagem C 
+    Leia um caractere e diga se é vogal ou consoante na linguagem C
 */
 
 int main() {
@@ -26,6 +26,6 @@ int main() {
     } else {
         printf("caractere digitado é uma consoante");
     }
-    
+
     return 0;
 }
