@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Dado o número do mês, diga quantos dias têm esse mês (versão 2) na linguagem C 
+    Dado o número do mês, diga quantos dias têm esse mês (versão 2) na linguagem C
 */
 
 int main() {
@@ -37,6 +37,6 @@ int main() {
     default:
         printf("\nValor nao corresponde a nenhum mes!\n");
     }
-    
+
     return 0;
 }
