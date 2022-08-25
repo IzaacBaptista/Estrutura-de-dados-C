@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Como calcular a média aritmética e ponderada (versão 2) na linguagem C 
+    Três valores formam um triângulo equilátero, isósceles ou escaleno na linguagem C 
 */
 
 int main() {
