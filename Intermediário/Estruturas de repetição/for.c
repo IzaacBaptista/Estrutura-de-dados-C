@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Estrutura de repetição for (para) na linguagem C 
+    Estrutura de repetição for (para) na linguagem C
 */
 
 int main() {
@@ -25,7 +25,7 @@ int main() {
     //printf("%d ", i++);
     //printf("%d ", i++);
 
-    for(i = 0; i <= 10; i++){
+    for(i = 0; i <= 10; i++) {
         printf("%d ", i);
     }
 
