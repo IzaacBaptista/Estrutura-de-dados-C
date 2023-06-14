@@ -12,23 +12,23 @@ int main() {
 
     //for
     int i = 0;
-    for(i = 0; i < 10; i++){
+    for(i = 0; i < 10; i++) {
         printf("Valor de i: %d\n", i);
     }
 
     //while
     int i = 0;
-    while(i < 10){
+    while(i < 10) {
         printf("Valor de i: %d\n", i);
         i++;
     }
 
     //do while
     int i = 0;
-    do{
+    do {
         printf("Valor de i: %d\n", i);
         i++;
-    }while(i < 10);
+    } while(i < 10);
 
     return 0;
 }
