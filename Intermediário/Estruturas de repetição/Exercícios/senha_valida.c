@@ -3,7 +3,7 @@
 #include <locale.h>
 
 /*
-    Exercício 2 | Repita a leitura de uma senha até que seja válida na linguagem C 
+    Exercício 2 | Repita a leitura de uma senha até que seja válida na linguagem C
 */
 
 int main() {
@@ -16,13 +16,13 @@ int main() {
     scanf("%d", &senhaCriada);
     printf("Senha criada com sucesso!\n");
 
-    do{
+    do {
         printf("Digite sua senha: ");
         scanf("%d", &senhaDigitada);
 
         if(senhaDigitada != senhaCriada)
             printf("Senha inválida!\n");
-    }while(senhaDigitada != senhaCriada);
+    } while(senhaDigitada != senhaCriada);
 
     printf("Senha válida!\n");
 
