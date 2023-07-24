@@ -16,7 +16,7 @@ int main() {
     for(i = 1; i <= 1000; i+=2)
         soma += i;
 
-    printf("A soma dos números ímpares de 1 a 1000 é: %d\n", soma);  
+    printf("A soma dos números ímpares de 1 a 1000 é: %d\n", soma);
 
     return 0;
 }
